@@ -1,0 +1,27 @@
+{
+  "name": "@professoroakz/stripes",
+  "version": "1.3.3.7",
+  "description": "A comprehensive repository management system for GitHub codebases with integrated EMS (Everything Running Seamlessly) functionality",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/professoroakz/.stripes.git"
+  },
+  "keywords": [
+    "stripes",
+    "ems",
+    "github",
+    "codebases"
+  ],
+  "author": "professoroakz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/professoroakz/.stripes/issues"
+  },
+  "homepage": "https://github.com/professoroakz/.stripes#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
