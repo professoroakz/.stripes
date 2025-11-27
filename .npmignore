@@ -1,0 +1,55 @@
+# Git files
+.git
+.github
+
+# Docker files
+Dockerfile
+
+# Development files
+.gitignore
+
+# Hidden config files (dot files)
+.actions
+.all
+.apps
+.areas
+.blockchain
+.cards
+.cfiles
+.code
+.collectors
+.controls
+.crypto
+.data
+.dotfiles
+.environ
+.files
+.foundations
+.githubstudentpack
+.hardware
+.include
+.logs
+.make
+.models
+.necessities
+.ofiles
+.os
+.pipes
+.portfolio
+.projects
+.protocols
+.rawems
+.school
+.security
+.settings
+.software
+.storage
+.store
+.stripes
+.tasks
+.terminals
+.tools
+.transmission
+.virtuals
+.wiki
+.work
